@@ -1,0 +1,4 @@
+//MO011-012.TXT ANA00011 TO ANA00012
+Article_Stock		FIC-	Article_Stock	Article_Stock file deleted
+Constraint_Stock_Article		DEL	Stock (StockID) and Article_Stock (StockID)	Link deleted between Stock (StockID) and Article_Stock (StockID) files
+Constraint_Article_Stock		DEL	Article (ArticleID) and Article_Stock (ArticleID)	Link deleted between Article (ArticleID) and Article_Stock (ArticleID) files

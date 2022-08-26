@@ -1,0 +1,9 @@
+;PCSoft - Hyper File V7.00 - REP V7.00
+;Do not edit. Please use specific tools.
+ANALYSISGUID=D	;Analysis GUID
+LOCALIZATION_UTF8=663127BA089447BC8A4B95E2203B3B66	Article	C:\My Projects\GestionStockApp\Exe\Article.fic
+LOCALIZATION_UTF8=AA19386B4E0742B4BA111C52228DAD61	Stock	C:\My Projects\GestionStockApp\Exe\Stock.fic
+LOCALIZATION_UTF8=E56C976F293F463EAD20AFBFF2BF9391	Magasin	C:\My Projects\GestionStockApp\Exe\Magasin.fic
+LOCALIZATION_UTF8=93D551468AF14D3F880393A0661C3428	DetailStock	C:\My Projects\GestionStockApp\Exe\DetailStock.fic
+LOCALIZATION_UTF8=D59A0EBD36394654945F95B0060E2F74	Echange	C:\My Projects\GestionStockApp\Exe\Echange.fic
+LOCALIZATION_UTF8=7AEF495C3D394BA9951A0D9E93968F5D	Article_Stock	C:\My Projects\GestionStockApp\Exe\Article_Stock.fic

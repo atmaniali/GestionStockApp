@@ -1,0 +1,6 @@
+//MO005-006.TXT ANA00005 TO ANA00006
+Article		TAR	194	new record size: 194
+Article		IDE-*		file without identifier
+Article	ArticleID	RUB-		key ArticleID deleted
+Constraint_Article_DetailStock		DEL	Article (ArticleID) and DetailStock (ArticleID)	Link deleted between Article (ArticleID) and DetailStock (ArticleID) files
+Constraint_Stock_Article		DEL	Stock (StockID) and Article (StockID)	Link deleted between Stock (StockID) and Article (StockID) files

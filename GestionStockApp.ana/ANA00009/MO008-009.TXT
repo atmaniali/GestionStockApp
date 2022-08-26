@@ -1,0 +1,4 @@
+//MO008-009.TXT ANA00008 TO ANA00009
+Article		TAR	194	new record size: 194
+Article		IDE+*		file with identifier
+Article	ArticleID	RUB+		ArticleID is a new key

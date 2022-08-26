@@ -1,0 +1,5 @@
+//MO003-004.TXT ANA00003 TO ANA00004
+Stock		TAR	170	new record size: 170
+Stock	numeroTelephon	CNW	String$4-byte integer	new type for numeroTelephon item: String
+Magasin		TAR	170	new record size: 170
+Magasin	numeroTelephon	CNW	String$4-byte integer	new type for numeroTelephon item: String

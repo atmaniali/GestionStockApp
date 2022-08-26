@@ -1,0 +1,7 @@
+//MO009-010.TXT ANA00009 TO ANA00010
+Article_Stock		NFI		new file
+Article_Stock		FIC-	Article_Stock	Article_Stock file deleted
+Constraint_Stock_Article		NWL	Stock (StockID) and Article_Stock (StockID)	New link between Stock (StockID) and Article_Stock (StockID) files
+Constraint_Article_Stock		NWL	Article (ArticleID) and Article_Stock (ArticleID)	New link between Article (ArticleID) and Article_Stock (ArticleID) files
+Constraint_Article_Stock		DEL	Article (codeProduit) and Article_Stock (CodeProduit)	Link deleted between Article (codeProduit) and Article_Stock (CodeProduit) files
+Constraint_Stock_Article		DEL	Stock (StockID) and Article_Stock (StockID)	Link deleted between Stock (StockID) and Article_Stock (StockID) files

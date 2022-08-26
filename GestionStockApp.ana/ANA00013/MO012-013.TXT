@@ -1,0 +1,4 @@
+//MO012-013.TXT ANA00012 TO ANA00013
+Article_Stock		NFI		new file
+Constraint_Article_Stock		NWL	Article (ArticleID) and Article_Stock (ArticleID)	New link between Article (ArticleID) and Article_Stock (ArticleID) files
+Constraint_Stock_Article		NWL	Stock (StockID) and Article_Stock (StockID)	New link between Stock (StockID) and Article_Stock (StockID) files

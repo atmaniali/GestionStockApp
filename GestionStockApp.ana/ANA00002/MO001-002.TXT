@@ -1,0 +1,10 @@
+//MO001-002.TXT ANA00001 TO ANA00002
+Article		TAR	203	new record size: 203
+Article	StockID	RUB+		StockID is a new key
+Stock		NFI		new file
+DetailStock		NFI		new file
+Magasin		NFI		new file
+Constraint_Magasin_DetailStock		NWL	Magasin (MagasinID) and DetailStock (MagasinID)	New link between Magasin (MagasinID) and DetailStock (MagasinID) files
+Constraint_Stock_DetailStock		NWL	Stock (StockID) and DetailStock (StockID)	New link between Stock (StockID) and DetailStock (StockID) files
+Constraint_Article_DetailStock		NWL	Article (ArticleID) and DetailStock (ArticleID)	New link between Article (ArticleID) and DetailStock (ArticleID) files
+Constraint_Stock_Article		NWL	Stock (StockID) and Article (StockID)	New link between Stock (StockID) and Article (StockID) files
